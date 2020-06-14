@@ -11,23 +11,8 @@
   margin-left: 20%;
 
 }
-header {
-  grid-area: header;
-  background-color: green;
-}
-header img
+.app-wrapper-content
 {
-  width: 50px;
-}
-nav {
-  background-color: burlywood;
-  grid-area: nav;
-}
-.content {
   background-color: cornflowerblue;
   grid-area: content;
-}
-.content img
-{
-  width: 1000px;
 }

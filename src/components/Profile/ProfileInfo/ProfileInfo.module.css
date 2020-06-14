@@ -1,0 +1,16 @@
+.content {
+    background-color: cornflowerblue;
+    grid-area: content;
+}
+.content img
+{
+    width: 1000px;
+}
+.item
+{
+    color:darkolivegreen;
+}
+.Description
+{
+    padding: 20px;
+}
